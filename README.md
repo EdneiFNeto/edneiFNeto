@@ -1,11 +1,7 @@
 ### Hi there 👋, Ednei Freitas
-
-- 🔭 Atualmente trabalho com Mobile App Android, React Native e IOS
-- 🌱 I’m currently learning typescript
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ele/dele
+##
+- 🔭 I work am Developer Mobile Android, React Native and ISO. I'm graduated in science computation I'm like sport, game and books.     
+- 🌱 I’m currently learning typescript and Docker 
 
 ##
 <div>
@@ -51,6 +47,7 @@
   <a href="https://www.instagram.com/fretasnetoednei" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:edneifneto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ednei-freitas-neto-406545175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.facebook.com/ednei.freitasneto" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   
 ##
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
