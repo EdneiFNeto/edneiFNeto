@@ -1,6 +1,6 @@
 ### Hi there 👋, Ednei Freitas i'm like sport, gym, game and books.    
 ##
-- 🔭 I work am Developer Mobile Android, React Native and ISO. I'm graduated in science computation 
+- 🔭 I work am Developer Mobile Android, React Native and ISO. I'm graduated in science computation. 
 - 🌱 I’m currently learning typescript and Docker 
 
 ##
